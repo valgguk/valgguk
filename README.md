@@ -5,7 +5,7 @@
 ## 🛠️ Technical Skills
 - Python, C, C++, Java, Scala, Go, Assembler, Racket
 - HTML/Django, Springboot
-- Excel (100%)
+- Excel
 
 ## 🚀 Notable Projects
 - **dnswatcher** (Go) — [niclabs](https://niclabs.cl/)
