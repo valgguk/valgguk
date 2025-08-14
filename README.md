@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Valentina Andrea Ramírez Jara
 
-<!--
-**valgguk/valgguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student of Civil Engineering in Computer Science**
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- Python, C, C++, Java, Scala, Go, Assembler, Racket
+- HTML/Django, Springboot
+- Excel (100%)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Notable Projects
+- **dnswatcher** (Go) — [niclabs](https://niclabs.cl/)
+- Games made with GodotEngine
+- Web app with Django
+- Analytics project with C++
+
+## 🎮 Interests & Hobbies
+- Reading fiction & exploring new tech
+- Playing video games
+
+## 🌱 Fun Fact
+If you spot someone coding in a hammock, it’s probably me deploying a new feature!
+
+## 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/valentina-andrea-ramírez-jara)
+
+---
+
+Feel free to reach out or check out my projects!
