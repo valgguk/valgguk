@@ -1,4 +1,4 @@
-# Hi, I'm **Valentina Andrea Ramírez Jara 👩‍💻**
+# Hi, I'm **Valentina Andrea Ramírez Jara 👩🏻‍💻**
 
 🎓 *Civil Engineering in Computer Science Student*  
 💡 Passionate about **Artificial Intelligence**, **Databases** and **Cybersecurity**  
@@ -39,6 +39,7 @@
 
 ## 🌱 Fun Fact  
 > I enjoy working outdoors 🎐
+
 > My productivity skyrockets on **cloudy days** 🌥️☕  
   
 
