@@ -1,5 +1,6 @@
-# Hi! 👩🏻‍💻,**
+# Hi! 👩🏻‍💻,
 *I'm Valentina Andrea Ramírez Jara*
+
 *Civil Engineering in Computer Science Student*  
 Passionate about **Artificial Intelligence**, **Databases** and **Cybersecurity**  
 
