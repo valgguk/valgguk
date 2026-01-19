@@ -1,11 +1,11 @@
-# Hi, I'm **Valentina Andrea Ramírez Jara 👩🏻‍💻**
-
-🎓 *Civil Engineering in Computer Science Student*  
-💡 Passionate about **Artificial Intelligence**, **Databases** and **Cybersecurity**  
+# Hi! 👩🏻‍💻,**
+*I'm Valentina Andrea Ramírez Jara*
+*Civil Engineering in Computer Science Student*  
+Passionate about **Artificial Intelligence**, **Databases** and **Cybersecurity**  
 
 ---
 
-## 🛠️ Technical Skills  
+## (⌨️) Technical Skills  
 
 **Languages & Programming**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)   ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=flat&logo=racket&logoColor=white)   ![Assembler](https://img.shields.io/badge/Assembly-525252?style=flat&logo=asm&logoColor=white)   ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Projects  
+## (🚀) Projects  
 
 - **[dnswatcher](https://niclabs.cl/)** 🛰️ *(Go)* — NIC Chile Labs  
 - 🎮 Games developed with **Godot Engine**  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 Interests  
+## (🎯) Interests  
 
 - 🤖 **Artificial Intelligence** — ML, NLP, Data-driven solutions  
 - 🗄️ **Databases** — Modeling, optimization & big data  
