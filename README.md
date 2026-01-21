@@ -23,7 +23,7 @@ Passionate about **Artificial Intelligence**, **Databases** and **Cybersecurity*
 
 - **[dnswatcher](https://niclabs.cl/)** 🛰️ *(Go)* — NIC Chile Labs  
 - 🎮 **[Games developed](https://valgguk.itch.io/)** with **Godot Engine**  
-- 🌐 Web applications with **Django**  
+- 🌐 Web applications with **Next**, **Django**  
 - 📊 Data analytics project with **C++**  
 
 ---
